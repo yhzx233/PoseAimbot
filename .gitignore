@@ -1,0 +1,5 @@
+*.pth
+*.pyc
+.vscode
+data
+loss.txt
